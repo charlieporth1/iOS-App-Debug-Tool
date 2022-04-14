@@ -2,7 +2,7 @@
   "name": "studioso_ios_and_android_pc_debugger",
   "version": "1.0.0",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "fibers": "^4.0.0",
     "fs": "0.0.1-security",
     "ios-deploy": "^1.9.4",
